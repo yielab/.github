@@ -1,17 +1,15 @@
 # yielab
 
 **Backend systems and open-source infrastructure.**  
-Built and maintained by [Santiago Yie](https://yielab.com) — senior backend engineer based in Buenos Aires, working US time zones.
+Built and maintained by [Santiago Yie](https://yielab.com) — senior backend engineer based in Buenos Aires.
 
 ---
 
 ## What this is
 
-yielab is where I build things outside of client work.
+Open-source tools built with production engineering standards — specs before code, honest test coverage, CI on every push.
 
-By day I'm an independent contractor embedded with US agencies — 18 years of enterprise PHP, Symfony, and Drupal for government, nonprofit, and Fortune 500 clients. Zero-data-loss migrations, Salesforce/Stripe/SSO integrations, the kind of backend work that has to be right.
-
-This org is the other side of that. Three tools I'm building because they solve problems I actually have — written with the same engineering discipline as client work: specs before code, honest test coverage, real CI, no vibe-coded glue.
+Built by a senior backend engineer with 18 years of experience across government, enterprise, and nonprofit clients.
 
 ---
 
