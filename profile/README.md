@@ -60,19 +60,7 @@ These are personal projects in active development — not production deployments
 
 ---
 
-## Background
-
-18 years building production backend systems as an international independent contractor for US agencies and their clients — spanning US federal government, legal aid, research institutions, international NGOs, supply chain SaaS, telecommunications, consumer brands, and legal services.
-
-Core practice: zero-data-loss CMS migrations (Drupal 7 through 11, 1M+ node tables), enterprise third-party integrations (Salesforce with custom Apex triggers, Stripe subscriptions, SAML/OAuth SSO, Firebase, Twilio, SendGrid), and custom module and API development on PHP/Symfony platforms.
-
-Full profile at [yielab.com](https://yielab.com) · [linkedin.com/in/santiagoyie](https://linkedin.com/in/santiagoyie)
-
----
-
 ## Contact
 
-`info@yielab.com`  
-Available for senior backend engagements — remote, US time zones, international contractor model.
+`https://yielab.com/ - info@yielab.com`  
 
-All projects in this org are MIT licensed.
