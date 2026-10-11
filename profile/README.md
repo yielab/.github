@@ -62,7 +62,7 @@ docket init --recipe secure-build && docket task add "Fix the flaky login test" 
 ```
 
 [![docket release](https://img.shields.io/github/v/release/yielab/docket?include_prereleases&style=flat-square&label=release&color=e3b778)](https://github.com/yielab/docket/releases)
-[![Quick start](https://img.shields.io/badge/quick_start-10_minutes-e3b778?style=flat-square)](https://github.com/yielab/docket/blob/main/docs/QUICK-START-DOCKET.md)
+[![Quick start](https://img.shields.io/badge/quick%20start-10%20min-e3b778?style=flat-square)](https://github.com/yielab/docket/blob/main/docs/QUICK-START-DOCKET.md)
 
 <br>
 
