@@ -11,16 +11,14 @@
 
 <br>
 
-**yielab is an independent engineering studio for the systems around applied AI.** It brings
-18 years of backend engineering to LLM workflows, retrieval, evaluation, model serving, agent
-tooling and human-in-the-loop design.
+**Yielab is where I, Santiago Yie, publish my open-source applied AI work.** Eighteen years of backend engineering, applied to LLM workflows, retrieval, evaluation, model serving and agent governance.
 
 Adding a model is the easy part. The work starts when AI has to live inside real software:
 
 > **How does it fail? What can it access? How much can it spend? How do we know what it did?
 > When does a human take over?**
 
-The projects below are our public answers: three open-source tools and one product in production.
+The projects below are my answers so far: three open-source tools and one product in production.
 
 <br>
 
